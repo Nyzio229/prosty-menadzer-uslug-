@@ -1,0 +1,21 @@
+﻿Instalowanie zestawu 'C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.InstallLog
+   assemblypath = C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.exe
+Trwa instalowanie usługi MojSerwis...
+Usługa MojSerwis została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MojSerwis w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.InstallLog
+   assemblypath = C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.exe
+Odinstalowywanie zestawu 'C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.InstallLog
+   assemblypath = C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.exe
+Usuwanie źródła EventLog MojSerwis.
+Trwa usuwanie usługi MojSerwis z systemu...
+Usługa MojSerwis została pomyślnie usunięta z systemu.

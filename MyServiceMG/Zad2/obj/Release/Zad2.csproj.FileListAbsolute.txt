@@ -1,0 +1,11 @@
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\bin\Release\Zad2.exe.config
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\bin\Release\Zad2.exe
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\bin\Release\Zad2.pdb
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\obj\Release\Zad2.csproj.AssemblyReference.cache
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\obj\Release\Zad2.csproj.SuggestedBindingRedirects.cache
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\obj\Release\Zad2.ProjectInstaller.resources
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\obj\Release\Zad2.Service1.resources
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\obj\Release\Zad2.csproj.GenerateResource.cache
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\obj\Release\Zad2.csproj.CoreCompileInputs.cache
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\obj\Release\Zad2.exe
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Zad2\obj\Release\Zad2.pdb

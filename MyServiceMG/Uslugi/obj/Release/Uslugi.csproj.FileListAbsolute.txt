@@ -1,0 +1,8 @@
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Uslugi\bin\Release\Uslugi.exe.config
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Uslugi\bin\Release\Uslugi.exe
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Uslugi\bin\Release\Uslugi.pdb
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Uslugi\obj\Release\Uslugi.csproj.AssemblyReference.cache
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Uslugi\obj\Release\Uslugi.csproj.SuggestedBindingRedirects.cache
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Uslugi\obj\Release\Uslugi.csproj.CoreCompileInputs.cache
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Uslugi\obj\Release\Uslugi.exe
+G:\Inne\UMK\rok3\c#\Uslugi\CustomServiceMG\MyServiceMG\Uslugi\obj\Release\Uslugi.pdb

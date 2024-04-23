@@ -1,0 +1,7 @@
+C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.csproj.AssemblyReference.cache
+C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\c#\3\Uslugi\bin\Debug\Uslugi.exe.config
+C:\Users\developer\Documents\c#\3\Uslugi\bin\Debug\Uslugi.exe
+C:\Users\developer\Documents\c#\3\Uslugi\bin\Debug\Uslugi.pdb
+C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.exe
+C:\Users\developer\Documents\c#\3\Uslugi\obj\Debug\Uslugi.pdb
